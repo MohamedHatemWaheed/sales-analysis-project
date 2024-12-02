@@ -97,7 +97,4 @@ This project enabled improved sales performance monitoring and decision-making t
 
 ---
 
-## How to Use  
-
-1. **Setup:**  
-   - Clone this repositor
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile) for questions or collaboration opportunities! 
