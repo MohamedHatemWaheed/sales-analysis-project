@@ -97,4 +97,4 @@ This project enabled improved sales performance monitoring and decision-making t
 
 ---
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile) for questions or collaboration opportunities! 
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mohamed-hatem-921936258) for questions or collaboration opportunities! 
