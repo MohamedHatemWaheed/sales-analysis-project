@@ -1,4 +1,4 @@
-# online store Sales Analysis Project: From Data Cleaning to Dynamic Dashboards  
+# Online Store Sales Analysis Project: From Data Cleaning to Dynamic Dashboards  
 
 ## Overview  
 This project involves a comprehensive sales analysis, employing **Power Query** for data cleaning, **Power Pivot** for data modeling, and dynamic dashboard creation. The goal is to extract valuable insights and enable informed decision-making.  
